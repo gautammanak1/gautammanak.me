@@ -1,2 +1,2 @@
-# Source code for [gautam.eu.org](https://gautam.eu.org)
+# Source code for [gautammanak.me](https://gautammanak.me)
 Built with Bootstrap
